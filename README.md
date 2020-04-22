@@ -1,4 +1,4 @@
-# iris-knn
+# Iris Flower Classification Challenge
 - My implementation of the Iris Flower Classification Challenge using   
     - **[K Nearest Neighbors](iris_knn.ipynb)**
     - **[Random Forests](iris_rfc.ipynb)**
